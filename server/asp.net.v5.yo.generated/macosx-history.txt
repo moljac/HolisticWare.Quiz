@@ -1,0 +1,96 @@
+    1  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Hybrid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:53712/" "10.71.34.101:5555"
+    2  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Hybrid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:53712/" "10.71.34.101:5555"
+    3  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Hybrid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:53712/" "10.71.34.101:5555"
+    4  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Native.VecernjiList/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:51047/" "10.71.34.101:5555"
+    5  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Native.VecernjiList/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:51047/" "10.71.34.101:5555"
+    6  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Native.VecernjiList/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:51047/" "10.71.34.101:5555"
+    7  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/029-Xamarin.UITest-Native-Full-Hybrid/Xamarin.UITest.Hybrid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:53712/" "emulator-5554"
+    8  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/021-TaskyPro/UITest.XamarinAndroid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:52960/" "10.71.34.101:5555"
+    9  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/021-TaskyPro/UITest.XamarinAndroid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:52960/" "10.71.34.101:5555"
+   10  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/021-TaskyPro/UITest.XamarinAndroid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:52960/" "10.71.34.101:5555"
+   11  /usr/bin/mono "/var/folders/8b/l3jkjtld7fj2fp3ps1z865rr0000gn/T/uitest/repl/xut-repl.exe" android "/Users/moljac/Projects/HolisticWare/Talks/HolisticWare.Talks.MobilityDay.2015/samples/02-Xamarin.UITest/021-TaskyPro/UITest.XamarinAndroid/bin/Debug/Xamarin.UITest.dll" "http://127.0.0.1:52960/" "10.71.34.101:5555"
+   12  ls -al ./Tasky.Droid/bin/Release/com.xamarin.samples.taskydroid-Signed.apk 
+   13  ls -al
+   14  ./upload.sh
+   15  ./upload.sh
+   16  ls -al
+   17  ./upload.sh
+   18  mkdir SalesForce
+   19  cd SalesForce/
+   20  dnx
+   21  dnvm
+   22  kvm
+   23  curl -sSL https://raw.githubusercontent.com/aspnet/Home/dev/dnvminstall.sh | DNX_BRANCH=dev sh && source ~/.dnx/dnvm/dnvm.sh
+   24  dnx
+   25  source /Users/moljac/.dnx/dnvm/dnvm.sh
+   26  dnx
+   27  source /Users/moljac/.dnx/dnvm/dnvm.sh
+   28  dnvm
+   29  dnvm upgrade -r coreclr
+   30  dnvm upgrade -r mono
+   31  yo
+   32  node
+   33  npm
+   34  npm install yeoman
+   35  npm uninstall yeoman
+   36  npm remove yeoman
+   37  npm -g install yo
+   38  sudo npm -g install yo
+   39  yo
+   40  yo aspnet
+   41  npm install -g generator-aspnet
+   42  sudo npm install -g generator-aspnet
+   43  yo asonet
+   44  yo aspnet
+   45  mv EmptyApplication/ Projects/asp.net
+   46  ls -al
+   47  cd Projects/asp.net
+   48  ls -al
+   49  md v.5
+   50  mkdir v.5
+   51  cd v.5/
+   52  mv ../EmptyApplication/ ./
+   53  ls -al
+   54  yo aspnet
+   55  yo aspnet
+   56  yo aspnet
+   57  yo aspnet
+   58  yo aspnet
+   59  yo aspnet
+   60  ls -al
+   61  cd EmptyApplication/
+   62  dnpm
+   63  dnu restore
+   64  less project.json 
+   65  dnx kestrel
+   66  less project.json 
+   67  dnx kestrel
+   68  ls -al
+   69  less Startup.cs 
+   70  less hosting.ini 
+   71  dnx kestrel
+   72  cd ../NancyApplication/
+   73  dnx kestrel
+   74  dnu restore
+   75  less project.json 
+   76  dnx kestrel
+   77  cd ../WebAPIApplication/
+   78  dnu restore
+   79  less project.json 
+   80  cat hosting.ini 
+   81  dnx kestrel
+   82  cat Startup.cs 
+   83  ls -al
+   84  ls -al Controllers/ValuesController.cs 
+   85  cat Controllers/ValuesController.cs 
+   86  cd ../WebApplication
+   87  dnu restore
+   88  dnx kestrel
+   89  ls -al
+   90  less WebApplication.db 
+   91  cd ../WebApplicationBasic/
+   92  ls -al
+   93  dnu restore
+   94  dnx kestrel
+   95  history 
+   96  history > ../macosx-history.txt
