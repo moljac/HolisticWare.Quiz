@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolisticWare.Quiz.BusinessDomainLogic", "HolisticWare.Quiz.BusinessDomainLogic\HolisticWare.Quiz.BusinessDomainLogic.csproj", "{09124DAE-25B9-4F94-9655-C59926844448}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EmptyApplication", "EmptyApplication\EmptyApplication.xproj", "{91B67937-68AC-4D82-AAE0-0EB7BAF65AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09124DAE-25B9-4F94-9655-C59926844448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09124DAE-25B9-4F94-9655-C59926844448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09124DAE-25B9-4F94-9655-C59926844448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09124DAE-25B9-4F94-9655-C59926844448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91B67937-68AC-4D82-AAE0-0EB7BAF65AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B67937-68AC-4D82-AAE0-0EB7BAF65AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B67937-68AC-4D82-AAE0-0EB7BAF65AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B67937-68AC-4D82-AAE0-0EB7BAF65AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
